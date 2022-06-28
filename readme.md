@@ -1,2 +1,2 @@
-ls
-quit
+#readme
+pizza for lunch
